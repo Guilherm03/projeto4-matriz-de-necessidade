@@ -43,6 +43,7 @@ Satisfação: Qual o seu nível de satisfação atual com a qualidade dos produt
 # Grupo Escolhido: Monitoria de Jogos Estratégicos DRM (Rodolfo)
 
 Perguntas
+<br>
 1- Qual o seu nível de satisfação com a monitoria? 7/10
 <br>
 2- O quanto você acha esse projeto relevante para o dia a dia escolar? 9/10
