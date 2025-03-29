@@ -42,7 +42,7 @@ Satisfação: Qual o seu nível de satisfação atual com a qualidade dos produt
 ### Respostas das Perguntas de outro Grupo
 # Grupo Escolhido: Monitoria de Jogos Estratégicos DRM (Rodolfo)
 
-Perguntas
+Perguntas:
 <br>
 1- Qual o seu nível de satisfação com a monitoria? 7/10
 <br>
