@@ -44,7 +44,11 @@ Satisfação: Qual o seu nível de satisfação atual com a qualidade dos produt
 
 Perguntas
 1- Qual o seu nível de satisfação com a monitoria? 7/10
+<br>
 2- O quanto você acha esse projeto relevante para o dia a dia escolar? 9/10
+<br>
 3- Quão revolucionario você acha o projeto? 8/10 
+<br>
 4- Qual seu nivel de satisfação com relação aos jogos? 7/10
+<br>
 5- Você sentiu que o projeto foi inclusivo e atendeu as necessidades de diferentes tipos de pessoas? 6/10
